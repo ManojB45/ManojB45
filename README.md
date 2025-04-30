@@ -8,6 +8,8 @@
   <a href="https://github.com/ManojB45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ManojB45" height="30" width="40" />
   </a>
+
+  I’m a passionate Full Stack Developer skilled in JavaScript, HTML, CSS, MySQL, Spring Boot, and MongoDB. I love building responsive web applications with clean UI and strong backend logic.
 </p>
 
 ---
