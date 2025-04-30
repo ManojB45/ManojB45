@@ -1,71 +1,33 @@
-# 👋 Hi, I'm Manoj B 
-**Full Stack Developer | Java | Spring Boot | React | MongoDB | MySQL**  
+<h1 align="center">Hi 👋, I'm Manoj Full Stack Developer | Java | Spring Boot | MySQL | MongoDB</h1>
+<h3 align="center">Passionate Full Stack Developer skilled in creating dynamic and scalable web applications using Java, Spring Boot, MySQL, and more.</h3>
 
-📍 Bangalore | ✉️ manojb1998225@gmail.com | 📞 +90 9036603780  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manoj-b-485bb227b/) 
-[![Portfolio](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/ManojB45)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojb45&label=Profile%20views&color=0e75b6&style=flat" alt="manojb45" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojb45" alt="manojb45" /></a> </p>
 
-### 🚀 **About Me**  
-Versatile Full Stack Developer with expertise in **Java, Spring Boot, React, and database management (MySQL/MongoDB)**. Passionate about building scalable web applications and solving complex problems using efficient algorithms. Currently seeking an entry-level role to contribute my skills to impactful projects.  
+<p align="left"> <a href="https://twitter.com/manuuuu628117" target="blank"><img src="https://img.shields.io/twitter/follow/manuuuu628117?logo=twitter&style=for-the-badge" alt="manuuuu628117" /></a> </p>
 
----
+- 🔭 I’m currently working on **Open to entry-level opportunities**
 
-### 🛠 **Technical Skills**  
-#### **Frontend**  
-- **Languages:** HTML5, CSS3, JavaScript  
-- **Frameworks:** React.js, Thymeleaf  
-- **Styling:** Bootstrap, Tailwind, Flexbox, Grid  
-- **Tools:** Responsive Design, Media Queries  
+- 👯 I’m looking to collaborate on **"Looking for opportunities"**
 
-#### **Backend**  
-- **Languages:** Java, Node.js (Basics)  
-- **Frameworks:** Spring Boot, Hibernate, JPA  
-- **APIs:** RESTful APIs, JWT Authentication  
-- **Databases:** MySQL, MongoDB  
+- 💬 Ask me about **Frontend Development**
 
-#### **Other**  
-- Testing: JUnit  
-- Version Control: Git/GitHub  
-- DevOps Basics: Spring Dev Tools  
+- 📫 How to reach me **manojb1998225@gmail.com**
 
----
+- 📄 Resume Gdrive Link: [https://drive.google.com/file/d/1tKD9ZY--M2uB57D8-wCVu_wFPk_FIxHB/view?usp=drive_link](https://drive.google.com/file/d/1tKD9ZY--M2uB57D8-wCVu_wFPk_FIxHB/view?usp=drive_link)
 
-### � **Projects**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manuuuu628117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manuuuu628117" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manoj-b-485bb227b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manoj-b-485bb227b/" height="30" width="40" /></a>
+</p>
 
-#### 1. **Online Bus Ticket Booking System** (Capstone)  
-- **Tech:** Spring Boot, Thymeleaf, Bootstrap, MySQL, JUnit  
-- **Features:** CRUD operations, REST APIs, JWT Auth, responsive UI.  
-- **Code:** [GitHub Link](#) *(replace with actual link)*  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-#### 2. **Doctor-Patient Appointment Manager**  
-- **Tech:** Spring Boot, MongoDB, Thymeleaf, JPA  
-- **Features:** Appointment scheduling, medication tracking, Junit testing.  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojb45&show_icons=true&locale=en&layout=compact" alt="manojb45" /></p>
 
-#### 3. **Employee Management System**  
-- **Tech:** Spring Boot, Hibernate, MySQL, Bootstrap  
-- **Features:** Employee CRUD operations, API integration.  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojb45&show_icons=true&locale=en" alt="manojb45" /></p>
 
----
-
-### 📜 **Certifications**  
-- **Java Full Stack Development** (GUVI, 2024)  
-- **CSS Frameworks & Frontend Tools**  
-- **Database Management:** SQL/NoSQL (MySQL, MongoDB)  
-
----
-
-### 📚 **Education**  
-**Bachelor’s in Mechanical Engineering**  
-Jain Institute of Technology, Davangere (2019–2022)  
-
----
-
-### 📈 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojB45&show_icons=true&theme=radical)  
-
----
-
-🤝 **Let’s Connect!**  
-Open to collaborations and opportunities. Reach out via [LinkedIn](https://www.linkedin.com/in/manoj-b-485bb227b/) or email!  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojb45&" alt="manojb45" /></p>
