@@ -1,33 +1,24 @@
-# <div align="center">🚀 **Manoj B | Full Stack Developer**</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  Manoj B | Full Stack Developer
+</h1>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20@Manoj_B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-b-485bb227b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20@ManojB45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManojB45)
-[![Email](https://img.shields.io/badge/Email-manojb1998225%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojb1998225@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🚀-Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app) *(optional)*
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-b-485bb227b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ManojB45"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:manojb1998225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## <div align="center">🔥 **About Me**</div>
+## 🚀 About Me
 
 ```java
-public class ManojB {
-  public static void main(String[] args) {
-    FullStackDeveloper manoj = new FullStackDeveloper(
-      "Java", "Spring Boot", "React", "MySQL", "MongoDB"
-    );
-    
-    manoj.setLocation("Bangalore, India");
-    manoj.setPassion("Building scalable web applications");
-    manoj.setEducation("B.E. in Mechanical Engineering");
-    
-    while(true) {
-      manoj.code();
-      manoj.learn();
-      manoj.innovate();
+public class AboutManoj {
+    public static void main(String[] args) {
+        System.out.println("Passionate Full Stack Developer");
+        System.out.println("Specializing in Java, Spring Boot & React");
+        System.out.println("Mechanical Engineer turned Coder");
+        System.out.println("Building scalable web applications");
     }
-  }
 }
