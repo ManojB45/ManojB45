@@ -1,81 +1,75 @@
-<h1 align="center">Hi 👋, I'm Manoj B</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 👨💻 Manoj B 
+**Full Stack Developer | Spring Boot Specialist | React Enthusiast**  
+📍 Bangalore, India | ✉️ manojb1998225@gmail.com | 📞 +90 9036603780  
 
-<p align="center">
-  <a href="https://linkedin.com/in/manoj-b-485bb227b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-b-485bb227b" height="30" width="40" />
-  </a>
-  <a href="https://github.com/ManojB45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ManojB45" height="30" width="40" />
-  </a>
-
-  I’m a passionate Full Stack Developer skilled in JavaScript, HTML, CSS, MySQL, Spring Boot, and MongoDB. I love building responsive web applications with clean UI and strong backend logic.
-</p>
-  
-
-
-### 💻 Tech Stack
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
-**Backend:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-b-485bb227b/)
+[![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/ManojB45)
+[![Resume](https://img.shields.io/badge/-Download%20Resume-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1tKD9ZY--M2uB57D8-wCVu_wFPk_FIxHB/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome)](https://manoj-portfolio-2025.netlify.app/)
 
 ---
 
-### 🚀 Projects
+## 🔥 About Me
+Full Stack Developer with expertise in **Spring Boot** and modern web technologies. Passionate about:
+- 🚀 Building scalable REST APIs
+- 💻 Creating intuitive user interfaces
+- 🔒 Implementing secure authentication systems
+- 🛠️ Solving complex problems with elegant code
 
-#### 1. Online Bus Ticket Booking System
-- **Technologies:** Spring Boot, Thymeleaf, MySQL, Bootstrap
-- **Features:** JWT Authentication, CRUD Operations, REST APIs
-- [View Code](https://github.com/ManojB45/bus-booking-system)
-
-#### 2. Doctor-Patient Management System  
-- **Technologies:** Spring Boot, MongoDB, JPA
-- **Features:** Appointment Scheduling, NoSQL Database
-- [View Code](https://github.com/ManojB45/doctor-patient-system)
-
-#### 3. Employee Management System  
-- **Technologies:** Spring Boot, Hibernate, Thymeleaf
-- **Features:** Role-Based Access, PDF Reporting
-- [View Code](https://github.com/ManojB45/employee-management)
+**Current Focus**: Mastering React ecosystem | Microservices architecture | AWS Cloud
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojB45&show_icons=true&theme=radical" alt="Manoj's GitHub stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojB45&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojB45&layout=compact&theme=radical" alt="Top Languages">
-</p>
+## 🏆 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=ManojB45&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojB45&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojB45&show_icons=true&theme=radical)
 
 ---
 
-### 📫 How to reach me
-<p align="center">
-  <a href="mailto:manojb1998225@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/manoj-b-485bb227b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+## 💼 Featured Projects
+
+### 1. 🚌 Online Bus Booking System
+**Tech Stack**: Spring Boot | JWT Auth | Thymeleaf | MySQL  
+✅ Reduced API response time by 40%  
+✅ 85%+ JUnit test coverage  
+[![View Code](https://img.shields.io/badge/-Source%20Code-black?style=flat&logo=github)](https://github.com/ManojB45/bus-booking-system)
+
+### 2. 🏥 Healthcare Management System
+**Tech Stack**: Spring Data JPA | Hibernate | Bootstrap  
+✅ Automated appointment scheduling  
+✅ Medicine inventory tracking  
+[![View Code](https://img.shields.io/badge/-Source%20Code-black?style=flat&logo=github)](https://github.com/ManojB45/doctor-appointment-system)
+
+---
+
+## 🛠 Technical Arsenal
+
+| **Frontend**       | **Backend**         | **DevOps**        | **Database**     |
+|--------------------|---------------------|-------------------|------------------|
+| React (Learning)   | Spring Boot         | Git/GitHub        | MySQL            |
+| Thymeleaf          | Node.js             | JUnit/Mockito     | MongoDB          |
+| Bootstrap 5        | RESTful APIs        | Postman           | Hibernate        |
+| Tailwind CSS       | Microservices       | Docker (Learning) | Schema Design    |
+
+---
+
+## 📚 Latest Blog Posts
+- [Optimizing Spring Boot Applications](https://yourblog.com/spring-optimization)  
+- [JWT Authentication Best Practices](https://yourblog.com/jwt-guide)  
+- [Transitioning from Thymeleaf to React](https://yourblog.com/thymeleaf-react)  
+
+---
+
+
+
+---
+
+## 📫 Let's Connect!
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojb1998225@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-b-485bb227b/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+⭐ **Fun Fact**: I can solve Rubik's cube in under 2 minutes while debugging code!
