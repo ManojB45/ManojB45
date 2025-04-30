@@ -1,61 +1,57 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<!-- Background image -->
+<img src="https://i.imgur.com/B8hzp8z.jpg" alt="Banner" width="100%" height="auto" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BCD4&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Manoj+B;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MongoDB" alt="Typing SVG" />
+</h1>
+
+---
+
+### 💡 Who Am I?
+
+🎓 I'm a **Full Stack Developer** passionate about crafting intuitive, scalable, and secure web applications.  
+💻 Experienced in **Java**, **Spring Boot**, **REST APIs**, **MongoDB**, **MySQL**, and responsive **frontend frameworks** like **Bootstrap**, **TailwindCSS**, and **React**.  
+🚀 Focused on writing clean code and solving real-world problems through software development.
+
+---
+
+### 🚀 My Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,bootstrap,react,tailwind,git,github" />
+</div>
+
+---
+
+### 📈 GitHub Stats & Graphs
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Developer;Creative+Coder+%7C+Problem+Solver;Crafting+Beautiful+and+Efficient+Web+Experiences" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojB45&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojB45&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
-
----
-
-## 🔍 About Me
-
-🎓 I'm a self-motivated and detail-oriented **Full Stack Developer** with a strong foundation in web technologies and backend development.  
-💡 Passionate about building responsive, accessible, and user-friendly applications using **HTML, CSS, JavaScript, MySQL, MongoDB, and Spring Boot**.  
-🚀 I’ve developed multiple full-stack and front-end projects that demonstrate a high level of design, responsiveness, and interactivity.
-
----
-
-## 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-</p>
-
----
-
-## 📄 Resume & Profiles
-
-- 📑 [Download My Resume](https://your-resume-link.com)  
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🛠 [Check out my GitHub](https://github.com/your-github)
-
----
-
-## 📌 Highlights
-
-- 🔥 Built **6+ full-fledged projects**, including complete CRUD operations, user authentication, and elegant UIs.  
-- 💻 Designed modern **responsive portfolios** with animations, dark/light themes, and advanced JavaScript interactions.  
-- 🎯 Constantly improving skills in **React, TailwindCSS**, and exploring DevOps and deployment pipelines.
-
----
-
-## 📬 Let's Connect
-
-I’m always open to collaborating on exciting projects, learning opportunities, or tech conversations. Feel free to drop a message or connect!
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ManojB45&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-> ⚡ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+### 📊 Skill Meter
 
+```html
+<b>Java / Spring Boot</b>  
+▰▰▰▰▰▰▰▰▱▱ (80%)  
+<b>MySQL / MongoDB</b>  
+▰▰▰▰▰▰▰▱▱▱ (70%)  
+<b>HTML / CSS / JavaScript</b>  
+▰▰▰▰▰▰▰▰▰▱ (90%)  
+<b>Bootstrap / Tailwind</b>  
+▰▰▰▰▰▰▰▱▱▱ (70%)  
+<b>React.js</b>  
+▰▰▰▰▰▰▱▱▱▱ (60%)  
+
+
+📫 Let’s Connect
+<p align="center"> <a href="mailto:manojb1998225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/manoj-b-485bb227b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/ManojB45"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://github.com/ManojB45/Manoj_B_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-005f73?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a> </p>
+
+⚡ “First, solve the problem. Then, write the code.” – John Johnson
