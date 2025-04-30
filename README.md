@@ -11,7 +11,7 @@
 
   I’m a passionate Full Stack Developer skilled in JavaScript, HTML, CSS, MySQL, Spring Boot, and MongoDB. I love building responsive web applications with clean UI and strong backend logic.
 </p>
-<button <a href="https://drive.google.com/file/d/1tKD9ZY--M2uB57D8-wCVu_wFPk_FIxHB/view?usp=drive_link"  target="_blank">Resume</button>
+ <a href="https://drive.google.com/file/d/1tKD9ZY--M2uB57D8-wCVu_wFPk_FIxHB/view?usp=drive_link"  target="_blank"> Download Resume</a>
 ---
 
 ### 💻 Tech Stack
