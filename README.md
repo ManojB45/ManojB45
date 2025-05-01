@@ -1,5 +1,5 @@
 # 👨💻 Manoj B 
-**Full Stack Developer | Spring Boot Specialist | React Enthusiast**  
+**“Full Stack Developer | Java, Spring Boot Enthusiast | Passionate About Building Scalable Web Solutions”**  
 📍 Bangalore, India | ✉️ manojb1998225@gmail.com | 📞 +90 9036603780  
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-b-485bb227b/)
